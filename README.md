@@ -24,8 +24,10 @@ This is my vs's most used extensions
 * [Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped)
 
 
+# Keybindings.json Shortcut Visual Studio Code
 
-# My Shortcuts Visual Studio Code
+```
+
 // Place your key bindings in this file to override the defaultsauto[]
 [
     {
@@ -43,3 +45,4 @@ This is my vs's most used extensions
         "when": "editorTextFocus && !editorReadonly"
     }
 ]
+```
