@@ -25,6 +25,7 @@ This is my vs's most used extensions
 
 
 # Keybindings.json Shortcut Visual Studio Code
+To Open Keybindings menu just use ```Ctrl + K then Ctrl + S```
 
 ```
 
@@ -43,6 +44,14 @@ This is my vs's most used extensions
         "key": "shift+alt+down",
         "command": "-editor.action.copyLinesDownAction",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+u",
+        "command": "editor.action.transformToUppercase"
+    },
+    {
+        "key": "ctrl+shift+i",
+        "command": "editor.action.transformToLowercase"
     }
 ]
 ```
