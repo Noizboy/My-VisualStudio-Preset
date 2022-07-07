@@ -20,3 +20,5 @@ This is my vs's most used extensions
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
 * [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+* [Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped)
