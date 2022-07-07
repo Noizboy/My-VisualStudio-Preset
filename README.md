@@ -22,3 +22,24 @@ This is my vs's most used extensions
 * [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 * [Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped)
+
+
+
+# My Shortcuts Visual Studio Code
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "alt+s",
+        "command": "editor.emmet.action.wrapWithAbbreviation"
+    },
+    {
+        "key": "ctrl+d",
+        "command": "editor.action.copyLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+alt+down",
+        "command": "-editor.action.copyLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    }
+]
