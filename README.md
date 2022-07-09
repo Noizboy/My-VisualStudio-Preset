@@ -55,3 +55,26 @@ To Open Keybindings menu just use ```Ctrl + K then Ctrl + S```
     }
 ]
 ```
+
+
+# My Visual Studio Snippets for Javascript
+To Open Snippets for Javascript menu just use ```File -> Preferences -> Configure User Snippets```
+```
+	"Print console": {
+		"prefix": "clg",
+		"body": [
+			"console.log(${1:object});",
+			"$2"
+		],
+		"description": "Log output to console"
+	},
+	"My Custom Funtion": {
+		"prefix": "func",
+		"body": [
+			"function ${1:SuperHeroe}(${2:parameter})",
+			"{",
+			"    // code to be executed",
+			"}"
+		]
+	}
+```
