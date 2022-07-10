@@ -23,6 +23,8 @@ This is my vs's most used extensions
 
 * [Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped)
 
+* [Css Peak](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+
 
 # Keybindings.json Shortcut Visual Studio Code
 To Open Keybindings menu just use ```Ctrl + K then Ctrl + S```
