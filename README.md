@@ -1,7 +1,7 @@
-# Visual Studio Code Extensions
+# Visual Studio Code Extensions & Scripts
 This is my vs's most used extensions
 
-# My Favorites Extensions
+# Extensions Visual Studio Code
 
 * [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 
