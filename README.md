@@ -25,6 +25,29 @@ This is my vs's most used extensions
 
 * [Css Peak](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 
+* [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+* [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+
+* [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+
+* [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+
+* [SQl Server Client(mssql)](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-myssql-client2)
+
+* [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+* [Tailwind CSS IntelliSensePreview](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+
+* [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
+
+* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+* [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+
+
 
 # Keybindings.json Shortcut Visual Studio Code
 To Open Keybindings menu just use ```Ctrl + K then Ctrl + S```
