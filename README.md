@@ -23,6 +23,8 @@ This is my vs's most used extensions
 
 * [Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped)
 
+* [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+
 * [Css Peak](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 
 * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
@@ -47,6 +49,11 @@ This is my vs's most used extensions
 
 * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
+* [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+
+* [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+* [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 
 
 # Keybindings.json Shortcut Visual Studio Code
