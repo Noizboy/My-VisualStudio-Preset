@@ -55,6 +55,9 @@ This is my vs's most used extensions
 
 * [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 
+* [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+
+
 
 # Keybindings.json Shortcut Visual Studio Code
 To Open Keybindings menu just use ```Ctrl + K then Ctrl + S```
